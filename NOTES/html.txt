@@ -1,0 +1,35 @@
+cloud
+hosting platforms
+local server [127.0.0.1]
+responsiveness
+frame painting
+dynamic pages =  css layouting
+all files while saving in notepad
+blank page when?
+fallback
+word wrap
+src = source
+alt = alternative text dont work for video tag
+using id scrolling links at end 
+both heading and paragraph are block elements that is left space before and after and takes full width.
+br to add next line in <p> tag
+<img> src = , alt = , width =
+<video> src = , mute,loop,controls,autoplay ,{alt doubt}
+<anchor tag> href = src
+use simentic if available if not use generic or div tag
+navigations outside
+sec vs div for sectioning 
+how to make section wise footer
+just a packet to store logically things div
+name and value for data stroring acts like id for a specific tag
+label for id are relatable
+type placeholder required 
+use br tag in between paragraph tag [imp]
+tittle attribute
+github respo
+codespaces
+how to host your project on github for free
+
+
+
+
